@@ -1,0 +1,8 @@
+.vscode
+lib
+
+# carpeta/archivo
+# enviroment/.env un archivo dentro de una carpeta
+# enviroment/* todos los archivos dentro de una carpeta
+# *.env (cualquier archi)
+# si una carpeta esta vacia, no se subira de todas formas
